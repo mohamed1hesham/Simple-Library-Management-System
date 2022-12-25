@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1653935607 source:h:\curriculum\3nd\3rd\2nd\c++\examples\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+
+1653936305 source:h:\curriculum\3nd\3rd\2nd\c++\assignment 2\examples\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+
